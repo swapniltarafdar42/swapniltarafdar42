@@ -76,10 +76,6 @@
 ### 🔝 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltarafdar42&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapniltarafdar42&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
----
 
-## About Me:
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
